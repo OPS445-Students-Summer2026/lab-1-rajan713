@@ -1,4 +1,3 @@
 #!/usr/bin/env python3
 
-name = "Rajan Sharma"
-print(name)
+print("How old are you Isaac?")
